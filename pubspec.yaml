@@ -1,6 +1,6 @@
 name: qr_scanner_web
 description: QR Scanner for WEB.
-version: 0.0.6
+version: 0.0.7
 homepage: https://github.com/hmbenhaim/qr_scanner_web
 
 environment:

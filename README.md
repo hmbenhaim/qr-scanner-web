@@ -8,16 +8,19 @@
 [https://github.com/hmbenhaim/qr_scanner_web][hmbenhaim]
 
 ## Useage
-- inport int your index.html  
+- Import it in your index.html  
 ```sh
  <script src="packages/qr_scanner_web/assets/qr_scanner_web.js" type="text/javascript"></script>
 ```
-- inastall the package
+- Install the package
 ```sh
  dependencies:
     qr_scanner_web: <version>
 ```
-- Import package in your code
+- Import the package in your code
+```sh
+import 'package:qr_scanner_web/qr_scanner_web.dart';
+``` 
 - Use it
 ```sh
 await QrScannerWeb().fromImageBytes(Uint8List imageBytes, String mimeType);
