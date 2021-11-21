@@ -12,4 +12,4 @@
 
 ## 0.0.3-beta
 
-* fix import js
+* change assets location
