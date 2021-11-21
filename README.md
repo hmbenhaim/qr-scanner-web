@@ -1,7 +1,7 @@
 # QrScannerWeb
 ## _Qr Scanner For Flutter Web_
 
-[https://github.com/hmbenhaim/qr_scanner_web][PlDb]
+[https://github.com/hmbenhaim/qr_scanner_web]
 
 ## Useage
 - inport int your index.html  
