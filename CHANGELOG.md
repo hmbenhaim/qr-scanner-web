@@ -17,3 +17,15 @@
 ## 0.0.3-beta-1
 
 * change assets location
+
+## 0.0.3-beta-2
+
+* change assets location
+
+## 0.0.4
+
+* change script include in index.html file to <script src="packages/qr_scanner_web/assets/qr_scanner_web.js" type="text/javascript"></script>
+
+## 0.0.5
+
+* remove unnecessary code 

@@ -6,7 +6,7 @@
 ## Useage
 - inport int your index.html  
 ```sh
- <script src="assets/packages/qr_scanner_web/assets/qr_scanner_web.js" type="text/javascript"></script>
+ <script src="packages/qr_scanner_web/assets/qr_scanner_web.js" type="text/javascript"></script>
 ```
 - inastall the package
 ```sh
