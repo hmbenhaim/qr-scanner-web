@@ -13,3 +13,7 @@
 ## 0.0.3-beta
 
 * change assets location
+
+## 0.0.3-beta-1
+
+* change assets location
