@@ -37,3 +37,7 @@
 ## 0.0.7
 
 * fix readme 
+
+## 0.0.8
+
+* fix readme 

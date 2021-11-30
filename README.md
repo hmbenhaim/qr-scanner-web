@@ -2,10 +2,10 @@
 ## _Qr Scanner For Flutter Web_
 
 ### My site
-[https://benhaim.tech][benhaim_app]
+[https://benhaim.app][benhaim_app]
 
 ### Github repo
-[https://github.com/hmbenhaim/qr_scanner_web][hmbenhaim]
+[https://github.com/hmbenhaim/qr-scanner-web][hmbenhaim]
 
 ## Useage
 - Import it in your index.html  
@@ -27,4 +27,4 @@ await QrScannerWeb().fromImageBytes(Uint8List imageBytes, String mimeType);
 ``` 
 
 [hmbenhaim]: <https://github.com/hmbenhaim/qr_scanner_web>
-[benhaim_app]: <https://benhaim.tech>
+[benhaim_app]: <https://benhaim.app>
