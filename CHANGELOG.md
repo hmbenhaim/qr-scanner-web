@@ -1,3 +1,13 @@
+
+# 0.0.9
+
+- fix url to include in index.html to:
+```sh
+  <script type="text/javascript" src="https://combinatronics.com/hmbenhaim/qr-scanner-web/main/lib/assets/qr_scanner_web.js"></script>
+```
+
+## Changelog till version 0.0.8 below 👇
+
 ## 0.0.1
 
 * init release

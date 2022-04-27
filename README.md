@@ -10,7 +10,7 @@
 ## Useage
 - Import it in your index.html  
 ```sh
- <script src="packages/qr_scanner_web/assets/qr_scanner_web.js" type="text/javascript"></script>
+  <script type="text/javascript" src="https://combinatronics.com/hmbenhaim/qr-scanner-web/main/lib/assets/qr_scanner_web.js"></script>
 ```
 - Install the package
 ```sh
